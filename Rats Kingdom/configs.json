@@ -1,7 +1,8 @@
 {
-  "limit": 100,
+  "limit": 1,
   "countdown": 300,
   "country_time": "en-US",
-  "isSkipInvalidProxy": false,
-  "delayEachAccount": [5, 8]
+  "isSkipInvalidProxy": true,
+  "delayEachAccount": [5, 8],
+  "referralCode": "6713068747"
 }
